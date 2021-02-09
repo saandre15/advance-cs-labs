@@ -1,0 +1,5 @@
+Q:Is the actor male?
+A:Sean Connery
+Q:Did she star in The Bourne Ultimatum? 
+A:Julia Stiles 
+A:Kate Winslet
